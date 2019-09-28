@@ -15,7 +15,7 @@ echo "hardik Meghnathi";
 echo "<br>";
 echo "nirmal patel";
 echo "<br>";
-echo "new updates by samir without pull"
+echo "new updates by samir without pull";
 echo "<br>";
 echo "hello checl pull"; //nirmal
 echo "<br>";
