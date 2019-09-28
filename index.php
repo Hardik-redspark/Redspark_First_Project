@@ -7,4 +7,7 @@ echo "check"; //nirmal
 
 echo "master";
 
+
+echo "hello";
+
 ?>
